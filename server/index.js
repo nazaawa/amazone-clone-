@@ -13,6 +13,9 @@ app.use(express.json())
 app.use(authRouter);
 
 
+
+
+
 //connections
 mongoose.connect(DB).then(() => {
     console.log("connection successful");
