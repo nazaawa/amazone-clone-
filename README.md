@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+nodejs server is on server folder inside flutter project
+clone the project
+download all flutter packages 
+go inside server directory and run npm install 
+run nodemon or npm run
